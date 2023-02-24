@@ -20,7 +20,7 @@ For example, **code myfile.txt** will open the **myfile.txt** file in VS Code.
 The _mv_ command is used to _move or rename_ files or directories.
 It can be used to _rename_ a file or directory, _move_ a file or directory to a different location, or _both at the same time._
 
-The basic syntax of the mv command is: mv **what** **to where**
+The basic syntax of the mv command is: mv **< what >** **< to where >**
 _mv file1.txt project1/_
 
 to **rename** a file called file1.txt to file2.txt,
